@@ -22,4 +22,3 @@ Building a dice game in which random dices appears and one the of the players wi
 ## Software Used
 - Visual Studio Code
 
-To run this website use the following link https://mustafabawany.github.io/DiceGame/
